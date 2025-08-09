@@ -1,0 +1,30 @@
+URL: https://www.python.org
+Title: Welcome to Python.org
+
+URL: https://www.wikipedia.org
+Title: Wikipedia
+
+URL: https://www.github.com
+Title: GitHub · Build and ship software on a single, collaborative platform · GitHub
+
+URL: https://www.stackoverflow.com
+Title: Newest Questions - Stack Overflow
+
+URL: https://www.nytimes.com
+Title: Error: HTTPSConnectionPool(host='www.nytimes.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x74c9bcd850>: Failed to resolve 'www.nytimes.com' ([Errno 7] No address associated with hostname)"))
+
+URL: https://www.bbc.com
+Title: BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio
+
+URL: https://www.coursera.org
+Title: No <title> tag found
+
+URL: https://www.medium.com
+Title: No <title> tag found
+
+URL: https://www.reddit.com
+Title: Reddit - The heart of the internet
+
+URL: https://www.w3schools.com
+Title: W3Schools Online Web Tutorials
+
